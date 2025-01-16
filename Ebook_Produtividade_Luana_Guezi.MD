@@ -1,6 +1,6 @@
 # Projeto EBOOK Gerado por I.A.s
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
 
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
@@ -9,7 +9,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 - [ChatGPT](https://chat.openai.com/) 
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-- [Google] (https://www.google.com.br/)
+- [Google](https://www.google.com.br/)
 
 ## 🧠 Prompts
 
@@ -31,20 +31,13 @@ ChatGPT：
 - Conteúdo gerado via ChatGPT
 - Imagens de capa geradas via ChatGPT; demais imagens obtidas através de pesquisa no repositório de imagens do google
 
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Autor
-
-   Luana Guezi
-   />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+   
+    <p>&nbsp&nbsp&nbspLuana Guezi<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/luanguezi">
     GitHub</a>&nbsp;|&nbsp;
