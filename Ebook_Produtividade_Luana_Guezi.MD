@@ -37,7 +37,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Autor
    
-    <p>&nbsp&nbsp&nbspLuana Guezi<br>
+    /> <p>&nbsp&nbsp&nbspLuana Guezi<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/luanaguezi">
     GitHub</a>&nbsp;|&nbsp;
