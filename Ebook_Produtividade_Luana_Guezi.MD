@@ -36,10 +36,10 @@ ChatGPT：
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Autor
-   
+   />
     <p>&nbsp&nbsp&nbspLuana Guezi<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/luanguezi">
+    <a href="https://github.com/luanaguezi">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/luana-costa-soares-guezi-003767243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ">LinkedIn</a>
