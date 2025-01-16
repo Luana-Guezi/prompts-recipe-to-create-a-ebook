@@ -18,14 +18,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema “dez dicas para aumentar sua produtividade”, o ebook é do nicho de desenvolvimento pessoal e profissional, e contem ações e exemplos práticos para aumentar a produtividade no dia a dia pessoal e profissional, o título deve seja épico e curto, e tenha uma temática mais nerd, me liste cinco variações de títulos |
-| conteúdo | Faça um texto para ebook, cujo título é “Produtividade: 10 Estratégias para Subir de Nível e Dominar Seu Tempo”, o ebook deve conter dez dicas de como aumentar a produtividade, listando as principais ações e exemplos práticos para aumentar a produtividade no dia a dia pessoal e profissional de pessoas adultas.
-
-{REGRAS}
-
-> Explique sempre de uma maneira simples
-> Deixe o texto enxuto
-> Sempre traga ações práticas para o dia a dia
-> Sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook, cujo título é “Produtividade: 10 Estratégias para Subir de Nível e Dominar Seu Tempo”, o ebook deve conter dez dicas de como aumentar a produtividade, listando as principais ações e exemplos práticos para aumentar a produtividade no dia a dia pessoal e profissional de pessoas adultas. {REGRAS} > Explique sempre de uma maneira simples > Deixe o texto enxuto > Sempre traga ações práticas para o dia a dia > Sempre deixe um título sugestivo por tópico |
 
 ChatGPT：
 
@@ -49,9 +42,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Autor
 
-   /> Luana Guezi
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
+   Luana Guezi
+   
     <a href="https://github.com/luanguezi">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/luana-costa-soares-guezi-003767243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
